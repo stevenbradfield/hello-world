@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/stevenbradfield/hello-world/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
